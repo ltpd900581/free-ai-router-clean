@@ -2,7 +2,7 @@
 
 free-ai-router-clean 是一个围绕免费 AI 中转、低价 AI API 和顶级大模型接入整理的导航仓库。内容参考 Free2AI 当前项目结构，重点面向想低成本体验 GPT、Claude、Gemini、DeepSeek、Llama、Qwen、Grok、Mistral 等模型的用户。
 
-关联入口：[https://pay.kklt.lol/](https://pay.kklt.lol/)
+关联入口：[https://free2ai.pages.dev/](https://free2ai.pages.dev/)
 
 ## 项目定位
 
@@ -21,7 +21,7 @@ GPT-5, GPT-4o, OpenAI o3, Claude 4 Opus, Claude 4 Sonnet, Gemini 2.5 Pro, DeepSe
 
 ## 推荐访问
 
-- 关联入口：[https://pay.kklt.lol/](https://pay.kklt.lol/)
+- 关联入口：[https://free2ai.pages.dev/](https://free2ai.pages.dev/)
 - Free2AI 导航：[https://free2ai.pages.dev/](https://free2ai.pages.dev/)
 - 推荐中转服务：[https://pay.kklt.lol/](https://pay.kklt.lol/)
 - 电报客服：[https://t.me/kkscshop](https://t.me/kkscshop)
