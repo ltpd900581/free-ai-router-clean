@@ -2,7 +2,7 @@
 
 free-ai-router-clean is a Free2AI-style navigation repository for free AI relay, low-cost AI API access, and top model gateway discovery. It is designed for users who want affordable access to GPT, Claude, Gemini, DeepSeek, Llama, Qwen, Grok, Mistral, and other leading AI models.
 
-Related entry: [https://pay.kklt.lol/](https://pay.kklt.lol/)
+Related entry: [https://free2ai.pages.dev/](https://free2ai.pages.dev/)
 
 ## Positioning
 
@@ -21,7 +21,7 @@ GPT-5, GPT-4o, OpenAI o3, Claude 4 Opus, Claude 4 Sonnet, Gemini 2.5 Pro, DeepSe
 
 ## Access Links
 
-- Related entry: [https://pay.kklt.lol/](https://pay.kklt.lol/)
+- Related entry: [https://free2ai.pages.dev/](https://free2ai.pages.dev/)
 - Free2AI directory: [https://free2ai.pages.dev/](https://free2ai.pages.dev/)
 - Recommended relay service: [https://pay.kklt.lol/](https://pay.kklt.lol/)
 - Telegram support: [https://t.me/kkscshop](https://t.me/kkscshop)
